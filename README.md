@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prince Patel 🌀 from India 🇮🇳</h1>
 <h3 align="center">The DevOps Guy who ♥ CI/CD stuff</h3>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/prince-patel-a266a5221/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
+
 <!--
 **princeptll/princeptll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
