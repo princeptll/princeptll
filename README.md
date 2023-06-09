@@ -3,7 +3,12 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prince-patel-a266a5221/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="prince-patel" width="22px" />
+</a>
+ &nbsp;&nbsp;
+  <a href="https://instagram.com/princeptll" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="princeptll" width="22px" />
+</a>
 
 <!--
 **princeptll/princeptll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
