@@ -9,7 +9,7 @@
   <a href="https://instagram.com/princeptll" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="princeptll" width="22px" />
 </a></p>
-![](https://komarev.com/ghpvc/?username=princeptll)
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/372372861/week.md)
   
 <!--
 **princeptll/princeptll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
