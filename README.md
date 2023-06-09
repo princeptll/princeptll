@@ -8,8 +8,9 @@
  &nbsp;&nbsp;
   <a href="https://instagram.com/princeptll" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="princeptll" width="22px" />
-</a>
+</a></p>
 ![](https://komarev.com/ghpvc/?username=princeptll&style=flat-square&color=blue)
+  
 <!--
 **princeptll/princeptll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
