@@ -1,9 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Prince Patel 🌀 from India 🇮🇳</h1>
 
 <!--
 **princeptll/princeptll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am [Prince](https://www.linkedin.com/in/prince-patel-a266a5221/),
+I am [Prince](https://www.linkedin.com/in/prince-patel-a266a5221/), 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
