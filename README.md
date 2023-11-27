@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevSecOps and Devops Tools**
 
-- 👨‍💻 All of my projects are available at [princepatel.42web.io](princepatel.42web.io)
+- 👨‍💻 All of my projects are available at [princepatel.42web.io](https://princepatel.42web.io)
 
 - 💬 Ask me about **DevOps Practices.**
 
