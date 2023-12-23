@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **patelprince1831@gmail.com**
 
-- 📄 Know about my experiences [http://princepatel.42web.io/assets/img/webdesigner/re/PRINCE.pdf](http://princepatel.42web.io/assets/img/webdesigner/re/PRINCE.pdf)
+- 📄 Know about my experiences [https://princepatel.42web.io/assets/img/webdesigner/re/PRINCE.pdf](http://princepatel.42web.io/assets/img/webdesigner/re/PRINCE.pdf)
 
 - ⚡ Fun fact **"DevOps: Because duct tape and a prayer aren't scalable solutions."**
 
