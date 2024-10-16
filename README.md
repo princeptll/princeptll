@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevSecOps and Devops Tools**
 
-- 👨‍💻 All of my projects are available at [princepatel.42web.io](https://princepatel.42web.io)
+- 👨‍💻 All of my projects are available at [prince.patel](https://princeptll.github.io/Prince-Patel/)
 
 - 💬 Ask me about **DevOps Practices.**
 
