@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princeptll&label=Profile%20views&color=0e75b6&style=flat-square" alt="princeptll" /> </p>
 
-- 🔭 I worked as **as DevOps Developer** at Shivam Jewels (IT Intelligence).
+- 🔭 I working as **as DevOps Engineer**.
 
 - 🌱 I’m currently learning **DevSecOps and Devops Tools**
 
