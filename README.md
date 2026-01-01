@@ -5,15 +5,15 @@
 
 - 🔭 I working as **as DevOps Engineer**.
 
-- 🌱 I’m currently learning **DevSecOps and Devops Tools**
+- 🌱Continuously working with **DevOps and DevSecOps** tools to improve reliability, security, and deployment efficiency.
 
 - 👨‍💻 All of my projects are available at [prince.patel](https://princeptll.github.io/Prince-Patel/)
 
 - 💬 Ask me about **DevOps Practices.**
 
-- 📫 How to reach me **patelprince1831@gmail.com**
+- 📫 How to reach me **princepatell0031@gmail.com**
 
-- 📄 Know about my experiences [https://princepatel.42web.io/assets/img/webdesigner/re/PRINCE.pdf](http://princepatel.42web.io/assets/img/webdesigner/re/PRINCE.pdf)
+- 📄 Know about my experiences [https://princeptll.github.io/Prince-Patel/)
 
 - ⚡ Fun fact **"DevOps: Because duct tape and a prayer aren't scalable solutions."**
 
