@@ -23,30 +23,29 @@
 <a href="https://linkedin.com/in/prince-patel-a266a5221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-patel-a266a5221" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
 <h4>🔹 Languages</h4>
 <p align="left">
-  <figure style="display:inline-block; margin-right:20px; text-align:center;">
+  <figure style="display:inline-block; margin-right:18px; text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
     <figcaption><sub>Python</sub></figcaption>
   </figure>
 
-  <figure style="display:inline-block; margin-right:20px; text-align:center;">
+  <figure style="display:inline-block; margin-right:18px; text-align:center;">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
     <figcaption><sub>Bash</sub></figcaption>
   </figure>
 
-  <figure style="display:inline-block; margin-right:20px; text-align:center;">
+  <figure style="display:inline-block; margin-right:18px; text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
     <figcaption><sub>Go</sub></figcaption>
   </figure>
 
-  <figure style="display:inline-block; margin-right:20px; text-align:center;">
+  <figure style="display:inline-block; margin-right:18px; text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" width="40"/>
     <figcaption><sub>YAML</sub></figcaption>
   </figure>
 </p>
+
 
 <h4>🔹 Cloud Servers & Infrastructure </h4>
 <p align="left">
