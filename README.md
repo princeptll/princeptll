@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DevOps Practices.**
 
-- 📫 How to reach me **princepatell0031@gmail.com**
+- 📫 How to reach me princepatell0031@gmail.com
 
 - 📄 Know about my experiences [https://princeptll.github.io/Prince-Patel/)
 
