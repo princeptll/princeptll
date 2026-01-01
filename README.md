@@ -29,7 +29,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
     <figcaption><sub>Python</sub></figcaption>
   </figure>
-
   <figure style="display:inline-block; margin-right:14px; text-align:center;">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
     <figcaption><sub>Bash</sub></figcaption>
