@@ -27,10 +27,25 @@
 
 <h4>🔹 Languages</h4>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" width="40" height="40"/>
+  <figure style="display:inline-block; margin-right:20px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+    <figcaption><sub>Python</sub></figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin-right:20px; text-align:center;">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
+    <figcaption><sub>Bash</sub></figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin-right:20px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
+    <figcaption><sub>Go</sub></figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin-right:20px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" width="40"/>
+    <figcaption><sub>YAML</sub></figcaption>
+  </figure>
 </p>
 
 <h4>🔹 Cloud Servers & Infrastructure </h4>
