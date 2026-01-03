@@ -5,7 +5,7 @@
 
 - 🔭 I working as **as DevOps Engineer**.
 
-- 🌱Continuously working with **DevOps and DevSecOps** tools to improve reliability, security, and deployment efficiency.
+- 🌱 Continuously optimizing **DevOps workflows** for secure, stable, and high-performing systems.
 
 - 👨‍💻 All of my projects are available at [prince.patel](https://princeptll.github.io/Prince-Patel/)
 
