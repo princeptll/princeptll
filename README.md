@@ -7,7 +7,7 @@
 
 - 🌱 Continuously optimizing **DevOps workflows** for secure, stable, and high-performing systems.
 
-- 👨‍💻 All of my projects are available at [prince.patel](https://princeptll.github.io/Prince-Patel/)
+- 👨‍💻 All of my projects are available at [prince.patel](https://princeptll.vercel.app/)
 
 - 💬 Ask me about **DevOps Practices.**
 
