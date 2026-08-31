@@ -38,25 +38,81 @@ I focus on building infrastructure that is:
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-### 🤖 AI-Powered Log Anomaly Detection
+### ☁️ Cloud & Infrastructure
 
-**AWS CloudWatch + SageMaker**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="55"/>
+<img src="https://www.svgrepo.com/show/303630/nvidia-logo.svg" width="55"/>
+</p>
 
-Machine-learning based log analysis and anomaly detection using AWS cloud services.
+`AWS` `Azure` `Bare-Metal Infrastructure` `GPU Infrastructure` `NVIDIA MIG`
 
-### 💰 Intelligent Cloud Cost Optimization Dashboard
+### ☸️ Containers & Orchestration
 
-**Machine Learning + Cloud Infrastructure**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="55"/>
+</p>
 
-A dashboard focused on cloud cost analysis and ML-based forecasting.
+`Docker` `Kubernetes` `Helm`
 
-### 🧠 RAG-Based Internal Knowledge Assistant
+### 🔄 CI/CD & DevOps
 
-**Amazon Bedrock + OpenSearch**
+<p>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="55"/>
+</p>
 
-A retrieval-augmented generation system designed for internal knowledge discovery.
+`Jenkins` `GitLab CI/CD` `Azure DevOps`
+
+### 🏗️ Infrastructure as Code & Automation
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="55"/>
+</p>
+
+`Terraform` `Ansible` `Shell Scripting` `Python` `YAML`
+
+### 📊 Monitoring & Observability
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="55"/>
+</p>
+
+`Grafana` `Prometheus` `NVIDIA DCGM` `Nagios` `Zabbix` `Datadog` `Loki`
+
+### 🗄️ Data & Messaging
+
+`MySQL` `PostgreSQL` `MongoDB` `Cassandra` `Redis`
+`Kafka` `RabbitMQ` `Elasticsearch`
+
+### 🔐 Security & Dev Tools
+
+`SonarQube` `Trivy` `WAF` `Nexus` `JFrog Artifactory` `Maven` `Gradle`
+
+---
+
+### Core MLOps Technologies
+
+* Kubernetes-based ML platforms
+* NVIDIA GPU infrastructure
+* NVIDIA MIG
+* GPU-aware scheduling
+* MLflow
+* JupyterHub
+* MinIO / S3-compatible storage
+* Helm
+* Docker
+* GitLab CI/CD
+* GPU monitoring with NVIDIA DCGM
+* Grafana observability
+* Model deployment & rollback
 
 ---
 
